@@ -36,3 +36,9 @@ http://localhost:3000
 
 ## Technologies
 ![Techlogies icons](https://raw.githubusercontent.com/aithonai/mocke/eed23b88878e869eab85d2183a4d25fba4310db2/technologies.svg)
+
+## Collaborators
+* [@aithonai](https://github.com/aithonai)
+* [@HenryNatera](https://github.com/HenryNatera)
+* [@JrDevMaster](https://github.com/JrDevMaster)
+* [@Yhonnier](https://github.com/Yhonnier)
