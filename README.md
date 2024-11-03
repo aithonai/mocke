@@ -33,3 +33,6 @@ you will see something like:
 ```bash
 http://localhost:3000
 ```
+
+## Technologies
+![Techlogies icons](https://raw.githubusercontent.com/aithonai/mocke/eed23b88878e869eab85d2183a4d25fba4310db2/technologies.svg)
