@@ -35,7 +35,7 @@ http://localhost:3000
 ```
 
 ## Technologies
-![Techlogies icons](https://raw.githubusercontent.com/aithonai/mocke/eed23b88878e869eab85d2183a4d25fba4310db2/technologies.svg)
+![Techlogies icons](https://raw.githubusercontent.com/aithonai/mocke/5da479bd98305553c2fb10f8a0c1fb8f191e4f76/technologies.svg)
 
 ## Collaborators
 * [@aithonai](https://github.com/aithonai)
