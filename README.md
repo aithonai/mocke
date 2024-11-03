@@ -3,15 +3,33 @@
 
 ## ⚡ Getting Started 
 
-How to run the development server:
+¡Open your terminal! ⌚ (linux Cntrl+Shift-T, Windows use Windowskey+X)
+
+* Install project dependencies
+```bash
+  npm install
+  # or
+  yarn install
+  # or
+  pnpm install
+```
+
+* Run the development server:
 ```bash
 npm run dev
 # or
 yarn dev
 # or
 pnpm dev
-# or
-bun dev
 ```
 
 If you want to use another port, just add ```-p ####```
+
+* Go to your browser (Chrome, Edge, Opera, Firefox, Safari)
+
+Type the output url from development server
+you will see something like:
+
+```bash
+http://localhost:3000
+```
